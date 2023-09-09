@@ -2,7 +2,7 @@
 
 ## 下载
 
-请到Action页面下载构建好的二进制文件使用:`https://github.com/ibook86/wget2-windows/actions/workflows/build.yml`
+Please go to the Action page to download the built binary file to use:`https://github.com/ctbenergy/wget2-windows/actions/workflows/build.yml`
 
 ```shell
 GNU Wget2 V2.0.0 - multithreaded metalink/file/website downloader
