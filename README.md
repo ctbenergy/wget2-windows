@@ -1,6 +1,6 @@
 # wget2-windows
 
-## 下载
+## Download
 
 Please go to the Action page to download the built binary file to use:`https://github.com/ctbenergy/wget2-windows/actions/workflows/build.yml`
 
